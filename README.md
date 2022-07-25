@@ -20,7 +20,7 @@ set SECRET_KEY=<your secret key>
 python manage.py runserver
 ```
 
-### Running Docker:
+### Running Docker
 
 Use commands:
 ```

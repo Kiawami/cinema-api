@@ -30,4 +30,8 @@ docker-compose up
 
 
 ### Features
-
+- Creating movies with genres and actors, cinema halls, tickets and orders 
+- Filtering movies and movie sessions
+- Oportunity to add images to movies
+- User permissions are provided
+- Check documentation on /api/doc/swagger/

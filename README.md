@@ -20,7 +20,7 @@ set SECRET_KEY=<your secret key>
 python manage.py runserver
 ```
 
-### Running Docker
+## Running Docker
 
 Use commands:
 ```
@@ -29,7 +29,8 @@ docker-compose up
 ```
 
 
-### Features
+## Features
+
 - Creating movies with genres and actors, cinema halls, tickets and orders 
 - Filtering movies and movie sessions
 - Oportunity to add images to movies
